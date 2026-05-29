@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Astra Beta Updates</title>
-    <link>https://raw.githubusercontent.com/Teralabsx/astra-updates/main/appcast.xml</link>
+    <link>https://github.com/Teralabsx/astra-updates/releases/download/appcast/appcast.xml</link>
     <description>Beta builds for inner circle testers.</description>
     <language>en</language>
     <item>
       <title>Version 0.1.0</title>
-      <pubDate>Fri, 29 May 2026 19:49:06 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 19:54:52 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <enclosure url="https://github.com/Teralabsx/astra-updates/releases/download/v0.1.0/Astra-0.1.0-1.zip"
-                 sparkle:edSignature="eagJl/BKJoGbmRgrVt81AlEreiF5DXSqtQAHsiAB3DOQMs2V9s0mizsxahvNo7pamRHad+EqyL3I4OfSEk9nCQ=="
-                 length="9231503"
+                 sparkle:edSignature="Zk4PSIPS+LsBR2ndBmIvgitd16BJhQFppuCvJ6MCAFpmlW1Ru6uYX+7fBkgJ+xKJwkM11rEYvb6HbUp3UOjcDQ=="
+                 length="9231495"
                  type="application/octet-stream" />
     </item>
   </channel>
