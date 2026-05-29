@@ -7,12 +7,12 @@
     <language>en</language>
     <item>
       <title>Version 0.1.0</title>
-      <pubDate>Fri, 29 May 2026 19:45:25 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 19:49:06 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <enclosure url="https://github.com/Teralabsx/astra-updates/releases/download/v0.1.0/Astra-0.1.0-1.zip"
-                 sparkle:edSignature="neQ32TIqJoloMMEyRgxamvTD73uNhob4O0ab1Oe7Ja4L/6jI0gPyEWz5ArEp7ZXPvCp94rt2hjqL2/ippFMtBQ=="
-                 length="9231367"
+                 sparkle:edSignature="eagJl/BKJoGbmRgrVt81AlEreiF5DXSqtQAHsiAB3DOQMs2V9s0mizsxahvNo7pamRHad+EqyL3I4OfSEk9nCQ=="
+                 length="9231503"
                  type="application/octet-stream" />
     </item>
   </channel>
